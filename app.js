@@ -17,21 +17,21 @@ const magicBall = () =>{
     let eightBall = '';
 
     switch (randomNumber){
-    case 1 : eightBall = 'It is certain';
+    case 1 : eightBall = 'Es certero';
     break;
-    case 2 : eightBall = 'It is decidedly so';
+    case 2 : eightBall = 'Completamente cierto';
     break;
-    case 3 : eightBall = 'Reply hazy try again';
+    case 3 : eightBall = 'Sin duda alguna';
     break;
-    case 4 : eightBall = 'Cannot predict now';
+    case 4 : eightBall = 'No tengo respuesta en estos momentos';
     break;
-    case 5 : eightBall = 'Do not count on it';
+    case 5 : eightBall = 'Definitivamente no';
     break;
-    case 6 : eightBall = 'My sources say no';
+    case 6 : eightBall = 'Confía en el universo';
     break;
-    case 7 : eightBall = 'Outlook not so good';
+    case 7 : eightBall = 'Recuerda Dios le das sus peores batallas a sus mejores guerreros';
     break;
-    case 8 : eightBall = 'Outlook not so good';
+    case 8 : eightBall = 'Por qué lo dudas';
     break;
     }
     return eightBall;
